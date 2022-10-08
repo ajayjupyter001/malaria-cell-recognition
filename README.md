@@ -1,6 +1,5 @@
 ### EXP NO: 04
 
-### .
 
 # <p align = "center"> Deep Neural Network for Malaria Infected Cell Recognition </p>
 ## AIM
